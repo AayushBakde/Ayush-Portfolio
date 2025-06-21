@@ -4,7 +4,7 @@ import Home from './component/Home'
 import About from './component/About'
 import Project from './component/Project'
 import Exprince from './component/Exprince'
-import Footer from './component/footer'
+import Footer from './component/Footer'
 import Contactus from './component/Contactus'
 import {Toaster} from 'react-hot-toast'
 
