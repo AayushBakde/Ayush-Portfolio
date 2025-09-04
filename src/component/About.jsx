@@ -13,7 +13,7 @@ function About() {
 
       {/* 📝 Summary */}
       <p className="text-white/90 leading-relaxed text-sm md:text-base mb-10">
-        👋 Hi, I’m <span className="font-semibold text-white">Uvesh</span> — a passionate Web Developer skilled in
+        👋 Hi, I’m <span className="font-semibold text-white">Ayush</span> — a passionate Web Developer skilled in
         React.js, JavaScript, HTML5, CSS3, and backend technologies like PHP and MySQL. I’m currently learning Node.js
         and MongoDB to become a full-stack developer. I’m looking for opportunities to grow, build impactful products,
         and collaborate with experienced teams.
@@ -24,10 +24,10 @@ function About() {
         <div>
           <h1 className="text-pink-300 font-semibold text-xl mb-1">🎓 Education</h1>
           <p>
-            Diploma in Computer Engineering <br />
-            Government Polytechnic Himmatnagar – Gujarat Technological University (GTU) <br />
+            Masters in Computer Appliciation <br />
+            LJ University<br />
             Passed Out: 2025 <br />
-            Relevant Subjects: Web Development
+            Relevant Subjects: Mobile & Web Development
           </p>
         </div>
 
@@ -41,9 +41,9 @@ function About() {
         <div>
           <h1 className="text-pink-300 font-semibold text-xl mb-1">💼 Professional Experience</h1>
           <p>
-            Intern – Web Design (React.js) <br />
-            Su-Kem Tech Limited, Ahmedabad <br />
-            🗓️ Jun 2024 – Aug 2024 <br />
+            Intern – Mobile & Web App (React Native) <br />
+            App Developers India, Ahmedabad <br />
+            🗓️ Jun 2025 – Sep 2025 <br />
             <br />
             <strong>Key Responsibilities:</strong><br />
             • Developed responsive and dynamic UI components using React.js, HTML, and CSS<br />

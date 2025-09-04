@@ -18,7 +18,7 @@ function Contactus() {
             message: data.message,
         };
         try {
-            await axios.post("https://getform.io/f/anlxkxqa", info);
+            await axios.post("https://getform.io/f/awnyyojb", info);
             toast.success("Your message has been sent ✅");
             reset();
         } catch (error) {

@@ -36,7 +36,7 @@ function Project() {
               </p>
               <div className='flex justify-center mt-4'>
                 <a
-                  href="https://github.com/Uvesh07"
+                  href="https://github.com/aayushteam9-glitch/salon1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className='bg-gradient-to-r from-green-400 to-lime-500 text-white font-semibold px-5 py-2 rounded-full shadow-md hover:opacity-90 transition'

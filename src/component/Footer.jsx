@@ -9,7 +9,7 @@ function Footer() {
         {/* Social Icons */}
         <div className="flex justify-center space-x-6 mb-6">
           <a
-            href="https://www.linkedin.com/in/uvesh-malek-4301u/"
+            href="https://www.linkedin.com/in/ayush-bakde-3b6453231/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
@@ -25,7 +25,7 @@ function Footer() {
             <FaInstagram size={24} className="hover:text-pink-500 duration-200" />
           </a>
           <a
-            href="https://wa.me/918238826843"
+            href="https://wa.me/918734928938"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="WhatsApp"
@@ -33,7 +33,7 @@ function Footer() {
             <FaWhatsapp size={24} className="hover:text-green-400 duration-200" />
           </a>
           <a
-            href="https://github.com/Uvesh07"
+            href="https://github.com/AayushBakde/Salon"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
@@ -46,7 +46,7 @@ function Footer() {
         <div className="border-t border-gray-700 pt-4 text-center text-sm text-gray-400">
           <p>&copy; 2025 All rights reserved.</p>
           <p className="text-white mt-1">
-            Developed with ❤️ by <span className="font-semibold">Uvesh</span>
+            Developed with ❤️ by <span className="font-semibold">Ayush</span>
           </p>
         </div>
       </div>

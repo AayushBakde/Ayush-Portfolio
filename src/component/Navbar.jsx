@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import pic from "../assets/main pic.jpg";
+import pic from "../assets/Ayush.jpg";
 import { IoMenu, IoClose } from "react-icons/io5";
 import { Link } from "react-scroll";
 
@@ -21,7 +21,7 @@ function Navbar() {
         <div className='flex items-center space-x-3'>
           <img src={pic} alt="profile" className='w-10 h-10 md:w-12 md:h-12 rounded-full object-cover border-2 border-white/30' />
           <div>
-            <h1 className='font-bold text-base md:text-lg'>Uvesh</h1>
+            <h1 className='font-bold text-base md:text-lg'>Ayush</h1>
             <p className='text-sm text-white/70'>Web Developer</p>
           </div>
         </div>
